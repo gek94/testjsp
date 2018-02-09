@@ -1,0 +1,6 @@
+com/gc/clients/dto/Client.class
+com/gc/clients/controller/ClientController.class
+com/gc/clients/db/DbConnection.class
+com/gc/clients/daoImpl/ClientDaoImpl.class
+com/gc/clients/db/Connection.class
+com/gc/clients/dao/ClientDao.class

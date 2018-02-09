@@ -1,0 +1,6 @@
+/home/george/NetBeansProjects/Clients/webClients/src/main/java/com/gc/clients/dto/Client.java
+/home/george/NetBeansProjects/Clients/webClients/src/main/java/com/gc/clients/controller/ClientController.java
+/home/george/NetBeansProjects/Clients/webClients/src/main/java/com/gc/clients/db/Connection.java
+/home/george/NetBeansProjects/Clients/webClients/src/main/java/com/gc/clients/db/DbConnection.java
+/home/george/NetBeansProjects/Clients/webClients/src/main/java/com/gc/clients/dao/ClientDao.java
+/home/george/NetBeansProjects/Clients/webClients/src/main/java/com/gc/clients/daoImpl/ClientDaoImpl.java
